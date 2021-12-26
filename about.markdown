@@ -4,15 +4,30 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Hi, I'm Ricardo David Rosales Zuniga - Hola, soy Ricardo David Rosales Zuñiga
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Currently contributing to these open source projects
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [Ivy on nxtlytics](https://github.com/nxtlytics?q=ivy&type=&language=)
+- [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
+- [thefactory/marathon-python](https://github.com/thefactory/marathon-python)
 
 
-[jekyll-organization]: https://github.com/jekyll
+### You may find me here:
+
+[<img align="left" alt="ricdros.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ricdros         | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ricardodrosales | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+
+[website]: https://ricdros.com
+[twitter]: https://twitter.com/ricdros
+[linkedin]: https://www.linkedin.com/in/ricardodrosales/
+
+<br />
+
+![missingcharacter's GitHub stats](https://github-readme-stats.vercel.app/api?username=missingcharacter&show_icons=true)
+
