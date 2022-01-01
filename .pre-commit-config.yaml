@@ -1,0 +1,25 @@
+repos:
+  - repo: git://github.com/pre-commit/pre-commit-hooks
+    rev: v4.1.0
+    hooks:
+      - id: trailing-whitespace
+        exclude: '^.docker/'
+      - id: check-added-large-files
+        args:
+        - --maxkb=512
+      - id: check-json
+        exclude: '^.docker/'
+      - id: check-merge-conflict
+      - id: check-symlinks
+      - id: check-yaml
+      - id: detect-private-key
+      - id: end-of-file-fixer
+        exclude: '^.docker/'
+      - id: pretty-format-json
+        exclude: '^.docker/'
+        args:
+        - --autofix
+  - repo: git://github.com/igorshubovych/markdownlint-cli
+    rev: v0.30.0
+    hooks:
+      - id: markdownlint-fix
