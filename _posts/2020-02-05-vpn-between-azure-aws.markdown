@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "How to VPN connect between Azure and AWS GovCloud Transit Gateway with Managed Services"
+toc: true
 date:   2020-02-05 00:00:00 +0000
 permalink: /azure
 tags: azure transit-gateway govcloud aws

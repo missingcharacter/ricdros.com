@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Recovering F7D7302 using serial"
+toc: true
 date:   2014-02-09 00:00:00 +0000
 tags:
   - Raspberry Pi

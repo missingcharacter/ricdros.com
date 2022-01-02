@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  'Why I liked "Diet Cig" so much'
+toc: true
 date:   2018-03-14 00:00:00 +0000
 ---
 ## It was 1 sentence

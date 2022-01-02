@@ -15,9 +15,10 @@
 ## Run it locally
 
 ```shell
-$ bundle exec jekyll serve --livereload
+JEKYLL_GITHUB_TOKEN=<your personal access token> bundle exec jekyll serve --livereload
 ```
 
 ## Thanks to
 
 - [Simon Dosda](https://simondosda.github.io/posts/2021-09-13-blog-github-pages-1-introduction.html)
+- ["No GitHub API authentication" error](https://github.com/github/pages-gem/issues/399)

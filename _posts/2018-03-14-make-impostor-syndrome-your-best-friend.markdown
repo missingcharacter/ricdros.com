@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Make impostor syndrome your best friend"
+toc: true
 date:   2018-03-14 00:00:00 +0000
 ---
 If you are like me, a lot of times you doubt yourself and how capable you are
