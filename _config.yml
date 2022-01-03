@@ -5,8 +5,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ricdros
 github_username:  missingcharacter
+repository: "missingcharacter/ricdros.com"
 minimal_mistakes_skin: default
 search: true
+analytics:
+  provider: "custom"
 
 # Build settings
 markdown: kramdown
