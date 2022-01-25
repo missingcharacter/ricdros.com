@@ -9,6 +9,22 @@ I want to thank Jun Kudo for their
 [post](https://hackernoon.com/how-to-connect-between-azure-and-aws-with-managed-services-4b03ec334e8a),
 this all started learning from their post.
 
+## TL; DR
+
+If you don't want to read and just want to get it done, go here:
+[janky-stuff/cloud/ipsec-between-azure-aws](https://github.com/missingcharacter/janky-stuff/tree/master/cloud/ipsec-between-azure-aws)
+
+Follow instructions there and run:
+
+```shell
+AWS_PROFILE=your-profile ./create_ipsec.sh --azure-cidr <azure CIDR> \
+  --azure-ip <public-ip1> --azure-ip <public-ip2> \
+  --azure-location eastus --azure-resource-group <Resource Group> \
+  --aws-cidr <aws CIDR> --aws-vpc-id <VPC ID>
+```
+
+If you want to know details continue reading
+
 ## Assumptions
 
 ### AWS Side
