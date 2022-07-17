@@ -1,5 +1,5 @@
 repos:
-  - repo: git://github.com/pre-commit/pre-commit-hooks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.1.0
     hooks:
       - id: trailing-whitespace
@@ -19,7 +19,7 @@ repos:
         exclude: '^.docker/'
         args:
         - --autofix
-  - repo: git://github.com/igorshubovych/markdownlint-cli
+  - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.30.0
     hooks:
       - id: markdownlint-fix

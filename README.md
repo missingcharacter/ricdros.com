@@ -21,4 +21,8 @@ JEKYLL_GITHUB_TOKEN=<your personal access token> bundle exec jekyll serve --live
 ## Thanks to
 
 - [Simon Dosda](https://simondosda.github.io/posts/2021-09-13-blog-github-pages-1-introduction.html)
+
+## Related docs
+
 - ["No GitHub API authentication" error](https://github.com/github/pages-gem/issues/399)
+- ["Minimal Mistakes" theme docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
