@@ -8,7 +8,7 @@
 ## How to setup
 
 - Make sure you meet [Requirements](#requirements) above
-  - Ruby `2.7.5`
+  - Ruby `3.3.4`
   - Bundler
 - Run `bundle install`
 
