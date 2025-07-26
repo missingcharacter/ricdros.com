@@ -126,7 +126,7 @@ date:   2022-08-07 00:00:00 +0000
   ```
 
 - if `swap` in `/etc/fstab` does not show `UUID`, you can obtain it via the
-  command: `lsblk -f | grep 'swap'`, now update swap line in `/etc/fstab`
+  command: `blkid | grep swap`, now update swap line in `/etc/fstab`
 - As of kernel `5.11.0-40-generic` there's a ~45-second pause at boot while
   the system tries to find a non-existent resume device, so we'll disable
   resume.
