@@ -230,7 +230,7 @@ On the AWS side, `169.254.0.0/16` is used as the `Inside IP CIDR` in a
 `VPN Connection`.
 At least someone provided feedback to Azure on how to improve their Networking,
 see
-[here](https://feedback.azure.com/forums/217313-networking/suggestions/38286799-ability-to-connection-azure-virtual-network-gatewa)
+[azure feedback](https://feedback.azure.com/forums/217313-networking/suggestions/38286799-ability-to-connection-azure-virtual-network-gatewa)
 
 If someone figures out how to setup BGP between Azure and AWS, please let me
 know.

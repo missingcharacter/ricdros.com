@@ -3,7 +3,7 @@
 ## Requirements
 
 - [github-pages](https://github.com/github/pages-gem)
-  - its dependencies can be found [here](https://pages.github.com/versions/)
+  - its dependencies can be found [GitHub Pages versions](https://pages.github.com/versions/)
 
 ## How to setup
 

@@ -20,8 +20,7 @@ date:   2022-08-07 00:00:00 +0000
 
 ### Install and configure Ventoy
 
-- Ventoy installation instructions
-  [here](https://www.ventoy.net/en/doc_start.html)
+- [Ventoy installation instructions](https://www.ventoy.net/en/doc_start.html)
 - Add `Windows` and `Pop!_OS` ISOs to ventoy folder in USB drive
 
 ### Create partitions first using `gparted` in live `Pop!_OS`
