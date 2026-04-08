@@ -17,7 +17,7 @@ After a couple hours I suggested my friend we used
 [tomato firmware](http://tomatousb.org/) instead of DD-WRT becuase tomato has a
 friendlier interface.
 
-### Yeah, right
+## Yeah, right
 
 He accepted and I flashed tomato, I swear I selected to "Reset to default
 settings"
@@ -32,7 +32,7 @@ Tried several times the
 and it didn't work. We finally gave up on the router and decided to work on it
 later.
 
-### Gettin' Jiggy wit It
+## Gettin' Jiggy wit It
 
 Well, until the past weekend I had the oportunity to look further into this
 issue, thanks to
@@ -50,7 +50,7 @@ Thanks to [Gtoniser](http://tweakers.net/gallery/247680) and their
 [post](http://appventures.tweakblogs.net/blog/8736/unbricking-your-router-with-a-raspberry-pi.html)
 I had the information on how to connect the Raspberry Pi and the router's serial.
 
-### Setup the Pi
+## Setup the Pi
 
 First, You have to comment the following line in `/etc/inittab`
 
@@ -66,7 +66,7 @@ T0:23:respawn:/sbin/getty -L ttyAMA0 115200 vt100
 
 Reboot the RPi and now we can use the serial port.
 
-### How to connect the RPi
+## How to connect the RPi
 
 Thanks to
 [lavalink](http://lavalink.com/2012/03/raspberry-pi-serial-interfacing/) for the
@@ -84,7 +84,7 @@ RX  <-> TX
 
 ![F7D7302 serial](/assets/images/recovering/2014_02_09_00_53_33.jpg)
 
-### Listen to the serial
+## Listen to the serial
 
 Install minicom in the RPi
 
@@ -116,7 +116,7 @@ CFE> nvram erase
 CFE> reboot
 ```
 
-### Success
+## Success
 
 I finally saw the device assigning and IP address to port, I connected a
 computer to Port 1 and openned 192.168.1.1
