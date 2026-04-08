@@ -63,7 +63,7 @@ Me trying SO HARD TO MAKE PEOPLE SEE ME THE SAME WAY I SEE MYSELF.
 But now after much thought, I realized I was focusing on the wrong things. I
 didn't see the pattern. The pattern was:
 
-### Me trying
+## Me trying
 
 I never took the time to step back and actually see all the things I've achieved
 because I want to be something more, because I want to improve, because I want

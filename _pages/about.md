@@ -4,9 +4,9 @@ toc: true
 permalink: /about/
 ---
 
-### Hi, I'm Ricardo David Rosales Zuniga - Hola, soy Ricardo David Rosales Zuñiga
+## Hi, I'm Ricardo David Rosales Zuniga - Hola, soy Ricardo David Rosales Zuñiga
 
-## Currently contributing to these open source projects
+### Currently contributing to these open source projects
 
 - [Ivy on nxtlytics](https://github.com/nxtlytics?q=ivy&type=&language=)
 - [jupyterhub/oauthenticator](https://github.com/jupyterhub/oauthenticator)
